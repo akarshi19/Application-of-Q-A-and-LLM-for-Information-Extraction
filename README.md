@@ -45,8 +45,8 @@ This project aims to build a robust system for extracting and analyzing informat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/qa-llm-information-extraction.git
-   cd qa-llm-information-extraction
+   git clone https://github.com/akarshi19/Application-of-Q-A-and-LLM-for-Information-Extraction.git
+   cd Application-of-Q-A-and-LLM-for-Information-Extraction
    ```
 
 2. Create a virtual environment and activate it:
