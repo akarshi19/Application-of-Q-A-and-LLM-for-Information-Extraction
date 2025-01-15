@@ -1,8 +1,8 @@
-# Application of Q&A and LLM for Information Extraction
+# Application of Q&A and LLM for Information Extraction🤖
 
 This project aims to build a robust system for extracting and analyzing information using advanced techniques such as Natural Language Processing (NLP), sentiment analysis, and numerical data comparison. It includes tools to preprocess text, compare sentence similarities, extract contextual keywords, and analyze sentiment for comprehensive information extraction.
 
-## Table of Contents
+## 📚Table of Contents
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -14,7 +14,7 @@ This project aims to build a robust system for extracting and analyzing informat
 
 ---
 
-## Features
+## 💡Features
 
 1. **Text Preprocessing**:
    - Tokenization
@@ -31,7 +31,7 @@ This project aims to build a robust system for extracting and analyzing informat
 6. **Comprehensive Evaluation**:
    - Generates a similarity matrix and a final decision matrix to evaluate text.
 
-## Technologies Used
+## 🔧Technologies Used
 
 - **Python Libraries**:
   - `spacy`: For NLP and text preprocessing.
@@ -40,7 +40,7 @@ This project aims to build a robust system for extracting and analyzing informat
   - `numpy`: For matrix operations.
   - `pandas`: For data handling.
 
-## Setup and Installation
+## 🛠️ Setup and Installation
 
 1. Clone the repository:
 
@@ -75,7 +75,7 @@ This project aims to build a robust system for extracting and analyzing informat
    nltk.download('all')
    ```
 
-## How It Works
+## ⚙️How It Works
 
 1. **Preprocess Text**:
 
@@ -98,7 +98,7 @@ This project aims to build a robust system for extracting and analyzing informat
 
    - Generates a final matrix that consolidates the results of the analysis.
 
-## Usage
+## 🖥️Usage
 
 Run the provided script by defining two input texts (e.g., historical or comparative data). Below is a snippet to execute the main function:
 
@@ -111,7 +111,7 @@ text2 = '''Your second text input.'''
 main(text1, text2)
 ```
 
-## Examples
+## 📝Examples
 
 Example 1: Comparing two education-related texts:
 
@@ -148,7 +148,7 @@ Output:
 Entity in Text 1 is equal to Entity in Text 2
 ```
 
-## License
+## 📣License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
